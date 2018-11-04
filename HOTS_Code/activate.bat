@@ -1,0 +1,1 @@
+D:\ProgramFiles\Anaconda3\Scripts\activate.bat tensorflow
